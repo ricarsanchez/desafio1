@@ -1,0 +1,55 @@
+.titulo{
+        
+                font-family: "Sedan SC", serif;
+                font-weight: 400;
+                font-style: normal;
+              
+              
+}
+.letra {
+  font-family: "Briem Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.fondo{ 
+        background-color: teal;
+}
+.btn{
+        position: fixed;
+        top: 20px;
+        right: 50px;
+        z-index: 100;
+        border: 0;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        background-color: #487754;
+    
+    }
+    .btn:hover{
+        background-color: #487754;
+    }.btn{
+        position: fixed;
+        top: 20px;
+        right: 50px;
+        z-index: 100;
+        border: 0;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        background-color: #487754;
+    
+    }
+    .btn:hover{
+        background-color: #487754;
+    }
+
+    body{
+        background-color: teal ;
+    }
+    body.dark-mode{
+        background-color: #000;
+        color: #fff;
+    
+    }
